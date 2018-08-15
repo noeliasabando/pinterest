@@ -1,0 +1,203 @@
+#iconoPinterest{
+  color: brown;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+#inicio{
+  margin-left: 10px;
+  margin-top: 15px;
+  color: rgb(163, 160, 160);
+
+}
+
+#buscar{
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+#inputSearch{
+  background-color: rgb(238, 236, 236);
+  border-radius: 5px;
+  margin-left: 60px;
+  margin-top: 10px;
+  border: rgb(238, 236, 236);
+  
+}
+
+#opciones{
+  background-color: rgb(238, 236, 236);
+  border-radius: 5px;
+  margin-top: 10px;
+  border: rgb(238, 236, 236);
+  margin-left: -15px;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+#iconoUser{  
+  font-size: 20px;
+  color: #a3a0a0;   
+  float: right;
+  margin-left: 70px;
+  margin-top: 15px;
+}
+
+#barras{  
+  color: rgb(146, 143, 143);
+  font-size: 25px;  
+  float: right;
+  margin-left: 60px;
+  margin-top: 15px;
+}
+
+#msn{  
+  color: rgb(163, 160, 160);
+  font-size: 25px; 
+  float: right;
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+.buttons{
+  margin-left: 180px;
+  margin-top: 20px;
+}
+
+#paisajes{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#comida{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo1.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#bodas{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo2.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#idiomas{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo3.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#reposteria{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo4.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#decoracion{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo5.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#tecnologia{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo6.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#moda{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo7.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#populares{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo8.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#regalos{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo9.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+#arquitectura{
+  border-radius: 10px;
+  color: white;
+  height: 50px;
+  background-image: url(../../img1/fondo10.jpg);
+  background-repeat: no-repeat;
+  border: 0ch;
+  cursor: pointer;
+}
+
+.imagenes{
+  width: 230px;
+  margin-top: 20px; 
+}
+
+#imagen{
+  width: 200px;
+  height: 300px;
+  border-radius: 20px; 
+}
+
+#listaImagenes{
+  margin-left: 130px;
+}
+
+#likes{
+  margin-top: -5px;
+}
+
+#usuario{
+  margin-top: -10px;
+}
+
+
