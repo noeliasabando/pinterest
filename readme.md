@@ -1,4 +1,4 @@
-# Proyecto DeliMap
+# Proyecto Pinterest
 
 ## Link del proyecto
-(https://noeliasabando.github.io/pinterest/)
+[Mi pinterest](https://noeliasabando.github.io/pinterest/)
